@@ -1,1 +1,1 @@
-git checkout -b feature-<ваше_имя>
+git checkout -b feature-<artem>
